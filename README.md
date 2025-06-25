@@ -1,1 +1,1 @@
-# link-flashcard
+# flashcard-2025-2.0
